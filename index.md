@@ -7,7 +7,7 @@ layout: default
 
 📍 Texas, USA  
 📧 mail.amrish@gmail.com  
-🔗 [LinkedIn](https://linkedin.com)  
+🔗 [LinkedIn](https://linkedin.com/in/amrish-thakkar-aws/)  
 📄 [Download Resume (PDF)](/resume.pdf)
 
 ---
