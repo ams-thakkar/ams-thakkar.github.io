@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Speaking & Thought Leadership
+# Speaking and Thought Leadership
 
 - **AWS Summit Toronto 2024**  
   *Supercharge Software Development with Amazon Q Developer*  
