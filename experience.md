@@ -11,8 +11,8 @@ layout: default
   improving engagement
 - Improved **time-to-market by 20% YoY** through SDLC modernization
 - Achieved **99.9% uptime** via CI/CD, observability, and operational excellence
-- Championed **AI-assisted engineering workflows**, increasing coding velocity
-  by 20% YoY
+- Led **AI-driven engineering & AIOps initiatives**, increasing coding velocity by 20% YoY and reducing MTTR by up to 30%
+
 
 ## Amazon Web Services — Senior Manager, Solutions Architect (2021–2022)
 
