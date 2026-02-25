@@ -14,12 +14,7 @@ layout: default
 
 ## Executive Summary
 
-Visionary Senior Technology Leader with 19+ years of experience driving digital transformation and elevating customer and
-learner experiences through innovative cloud-based solutions. Expert in building and scaling products that drive global
-enablement programs, empowering individuals and organizations to upskill in AWS technologies, with a proven track record of
-aligning technical training initiatives to business outcomes. A forward-looking, hands-on leader who champions the adoption of
-AI-driven engineering practices to enhance product capabilities, accelerate learning, and deliver measurable impact in technical
-enablement and partner success
+Experienced Engineering Manager leading multi-team organizations delivering large-scale, cloud-native platforms serving 1M+ users globally. Experienced in modernizing legacy systems into distributed microservices architectures, partnering closely with Product to execute multi-quarter roadmaps, and institutionalizing CI/CD and SRE practices to sustain high reliability. Proven track record of building high-performing teams, developing engineering leaders, and applying AI-driven solutions to improve operational efficiency and platform performance. Seeks to continue scaling engineering organizations and architecting resilient, automated cloud platforms that accelerate business outcomes.
 
 👉 Open to **Senior Manager / Director-level Software Engineering, Solution Engineering & Architect roles**.
 ---
