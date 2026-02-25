@@ -16,7 +16,7 @@ layout: default
 
 Experienced Engineering Manager leading multi-team organizations delivering large-scale, cloud-native platforms serving 1M+ users globally. Experienced in modernizing legacy systems into distributed microservices architectures, partnering closely with Product to execute multi-quarter roadmaps, and institutionalizing CI/CD and SRE practices to sustain high reliability. Proven track record of building high-performing teams, developing engineering leaders, and applying AI-driven solutions to improve operational efficiency and platform performance. Seeks to continue scaling engineering organizations and architecting resilient, automated cloud platforms that accelerate business outcomes.
 
-👉 Open to **Senior Manager / Director-level Software Engineering, Solution Engineering & Architect roles**.
+👉 Open to **Software Engineering leadership, Solution Engineering/Architect leadership roles**.
 ---
 
 [Experience](/experience) | [Skills](/skills) | [Talks](/talks)
